@@ -1,0 +1,179 @@
+/* Logo */
+a{
+    text-decoration: none !important;
+    margin-left: 28px;
+}
+.form-group[type=texto] {
+    Border-left:none;
+    
+    Border-top:none;
+  }
+.my-button{
+    display: flex;
+    justify-content: center;
+    margin:20px 0 20px 0;
+}
+.logo-container {
+    width: 50px;
+	display: flex;
+    padding: 20px 70px;
+    justify-content: center;
+}
+.icon{
+    margin-bottom:30px ;
+}
+.space-form {
+	padding: 20px 80px;
+}
+.senha{
+    margin:10px 0 0 0;
+}
+.marginHere{
+    margin-top:20px;
+}
+.input-changes{
+    border-top:none !important;
+    border-left:none !important;
+    border-right:none !important;
+    border-radius: 0 !important;
+    
+}
+.logo-header img{
+    width: 60px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+.all{
+    margin:20px 0 20px 0;
+}
+.button-enter p{
+    
+    margin:0 !important;
+}
+.button-enter{
+    color:white;
+    font-size: 15px;
+    
+}
+.desc-cadastro{
+    text-align: center;
+}
+
+.desc-cadastro h2{
+    color:#1976D2;
+    margin-top: 42px;
+    font-family: Arial, Helvetica,'Arial Narrow Bold';
+}
+.content-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.header{
+    background-color: #444444;
+}
+.myForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:20px 0 20px 0;
+}
+.form-group{
+    margin:10px 0 10px 0;
+}
+.rounded{
+    
+    position: relative;
+    left: 80px;
+    width: 50%;
+    margin-left: 98px;
+    margin: 50px;
+}
+
+/* Icons */
+.icons{
+    text-align: center;
+}
+
+/* Formulário */
+.form-horizontal{
+    text-align: center;
+}
+
+.bottom{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    margin:10px 0 10px 0;
+}
+
+
+.form-group{
+    top: 50%;
+}
+
+.login{
+    width: 184px;
+    height: 49px;
+}
+
+.cadastre-se{
+    text-decoration: none;
+    position: absolute;
+    padding: 50px;
+    right: 140px;
+    margin-top: -110px;
+}
+
+/* Rodapé */
+.rodape{
+    text-align: center;
+    height: 31px;
+}
+
+.fixed-bottom {
+    bottom: 0;
+    background-color: #1976D2;
+    color: #ffffff;
+}
+
+.info-login{
+    text-align: center;
+    color: #B1B1B1;
+    margin-top: 2px;
+}
+
+
+.form{
+    /* Rectangle 1 */
+
+
+text-align: center;
+width: 184px;
+height: 49px;
+left: 88px;
+top: 255px;
+
+
+}
+
+.logo-fintech{
+    float: none;
+    margin-left: 150px;
+    width: 30%;
+
+}
+
+
+
+
+
+
+
+    
+
+
+
